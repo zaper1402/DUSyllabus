@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#fff4ff"
+    android:layout_height="match_parent"
+    tools:context="com.something.saura.dusyllabus.Main.MainActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/custom_button"
+        android:layout_alignStart="@+id/button2"
+        android:layout_marginTop="19dp"
+        android:text="Management accounting" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button"
+        android:background="@drawable/custom_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:paddingBottom="10dp"
+        android:text="corporate tax planning" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button2"
+        android:background="@drawable/custom_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="advertising" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button3"
+        android:background="@drawable/custom_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="banking and insurance" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button4"
+        android:background="@drawable/custom_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:text="Computerised accounting system" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button7"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/custom_button"
+        android:layout_marginTop="18dp"
+        android:text="Financial markets ,institutions and financial services" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button8"
+        android:background="@drawable/custom_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:text="industrial laws" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button9"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custom_button"
+        android:layout_centerHorizontal="true"
+        android:text="organisational behaviour" />
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/button11"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-5207658967392727/7442885061">
+        </com.google.android.gms.ads.AdView>
+    </RelativeLayout>
+
+</ScrollView>
