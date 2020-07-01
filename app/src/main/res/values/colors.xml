@@ -2,6 +2,14 @@
 <resources>
     <color name="colorPrimary">#800080</color>
     <color name="colorPrimaryDark">#800080</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#FFF4FF</color>
     <color name="colorText">#000000</color>
+    <color name="ButtonBg">#007EA7</color>
+    <color name="Heading">#00A8E8</color>
+
+    <color name="LightPink">#FFF7FE</color>
+    <color name="Pink">#EE92C2</color>
+    <color name="Blue">#00A8E8</color>
+    <color name="Yellow">@color/Heading</color>
+    <color name="DarkBlue">#007EA7</color>
 </resources>

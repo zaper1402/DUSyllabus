@@ -17,7 +17,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="66dp"
-        android:textColor="#edae00"
+        android:textColor="@color/Heading"
         android:text="Select Subject"
         android:textStyle="bold"
         android:textSize="20dp"

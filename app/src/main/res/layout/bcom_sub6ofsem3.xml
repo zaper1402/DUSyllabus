@@ -17,7 +17,7 @@
         android:text="Select Subject"
         android:textStyle="bold"
         android:textSize="20dp"
-        android:textColor="#edae00"
+        android:textColor="@color/Heading"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
