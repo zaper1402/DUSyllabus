@@ -2,6 +2,9 @@ package com.something.saura.dusyllabus.Bcom.Sem2;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.text.SpannableStringBuilder;
+import android.widget.TextView;
+import com.something.saura.dusyllabus.filereader;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
@@ -10,11 +13,16 @@ import com.something.saura.dusyllabus.R;
 
 public class sub2ofsem2 extends AppCompatActivity {
     private AdView mAdView;
+    private SpannableStringBuilder text = new SpannableStringBuilder();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.bcom_sub2ofsem2);
+        setContentView(R.layout.syllabus_page);
+        String file = "sample.txt";
+        text = filereader.readWithSpan(this,file);
+        TextView output= (TextView) findViewById(R.id.textView);
+        output.setText((CharSequence) text);
 
         MobileAds.initialize(this, "ca-app-pub-5207658967392727~2816356292");
         mAdView = findViewById(R.id.adView);
