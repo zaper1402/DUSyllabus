@@ -1,0 +1,25 @@
+<b>Unit 1</b>\n
+Introduction \n
+Meaning of research ;scope of research in business;purpose of research -exploration ,description,explanation;unit of analysis-individual ,organization,groups and data ;Series;conception,construct,attributes,variables.\n\n
+        <b>Unit 2</b>\n
+Research process\n
+An overview ;problem identification and definition ;selection of basic research mathods-field study ,laboratory study ,survey method,observational methods,existing data based research ,longitudinal studies, panel studies.\n\n
+        <b>Unit 3</b>\n
+Measurement\n
+Definition;designing and writing items;uni-dimensional and multi-dimensional scales;measurement scales-nominal,ordinal,internal,ratio;ratings and ranking scale,thurstone,likert and semantic differential scaling ,paired comparison;sampling-steps,types ,sample size decision;secondary data sources.\n\n
+        <b>Unit 4</b>\n
+Hypothesis testing\n
+Test concerning means and proportions;ANOVA ,chi-square test and other non-parametric tests ,assumptions of classical normal linear regression.\n\n
+        <b>Unit 5</b>\n
+Report preparation\n
+Meaning,types and layout of research report;steps in report writing ;citations,bibliography and annexure in report ;JEL classification.\n\n
+        <b>Note</b>\n
+1. There shall be a written examination of 50% marks on the basis of unit 1 to 4\n
+2. The student will write a project report under the supervision of a faculty member assigned by the college based on field work .The project report carriers 50% marks and will be evaluated by university appointed examiners.
+    <b>Suggested Readings:</b>\n
+1. Babble,Earl R. the practice of social reserach .Wadsworth publication.\n
+2. Chwala, Deepak and sondhi,Neena Research methodology :Concept and cases Vikas Publications.\n
+3. Webster,Allen L., Applied statistics for business and economics: An essential approach TMH.\n
+4. Zikmund, W.G. Business research method,South western Thomson learning ,USA.\n
+5. Emory,C. William ,Business research methods,Homewood,Richard D.Irwin.
+    

@@ -1,0 +1,26 @@
+<b>Unit 1</b>\n
+The investment environment\n
+The investment decision process ,types of investments-commodities ,real,= estate, and financial assets ,th Indian securities market,the market particupants and trading of securities ,security market indices ,sources of financial information ,return and risk;concept ,calculation ,trade off between return and risk ,impact of taxes and inflation on return\n\n
+        <b>Unit 2</b>\n
+Fixed income securities\n
+Bond fundamentals,extimating bonf yield , bond valuation ,types of bond risks ,default risk and credit rating.\n\n
+        <b>Unit 3</b>\n
+Approaches to equity analysis\n
+Fundamental analysis ,technical analysis and efficient market hypothesis,Valuation of equity shares using various models.\n\n
+        <b>Unit 4</b>\n
+Portfolio analysis and financial derivaties\n
+a) Portfolio and diversification ,portfolio risk and return\n
+b) mutual funds\n
+c) Introduction to financial derivatives -forwards ,future and options,financial derivatives markets in India.\n\n
+        <b>Unit 5</b>\n
+Investor protection\n
+Role of SEBI and stock exchanges in investors protection ;investor grivances and their redressal system ,insider trading ,investors, awareness and activism\n\n
+        <b>Note</b>\n
+Spreadsheet is the recommended software for doing basic calculations in finance and hance can be used for giving students subjects related assignment for their internal assessment purposes.
+    <b>Suggested Readings:</b>\n
+1. Jones,C.P.Investments Analysis and Management ,Wiley.\n
+2. Chandra,Prasanna ,Investment analysis and portfolio management .Tata McGraw Hill.\n
+3. Rustogi, R.P. fundamentals of investment ,sultan Chand and sons,New Delhi.\n
+4. Vohra,N.D. and Bagri,B.R. Futures and options ,McGraw Hill publishing.\n
+5. Mayo,An introduction to investment ,Cengage Learning.
+    

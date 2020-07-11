@@ -1,0 +1,22 @@
+<b>Unit 1</b>\n
+An introduction to financial system and its components\n
+-financial markets and institutions ,financial intermediation ,flow of funds matrix ,financial system and eonomic development ,an overview of Indian financial system.\n\n
+        <b>Unit 2</b>\n
+Financial markets\n
+market-functions, organisation and instruments. Role of central bank in money market;Indian money market -an oerview.\n
+Capital markets -functions,organisation and instruments ,Indian debt market ;Indian equity market-primary and  secondary markets ;role of stock exchanges in India.\n\n
+        <b>Unit 3</b>\n
+Financial Institutions\n
+Depository and non-depository institutions,commercial banking-introduction ,its role in project finance and working capital finance .Development financial institutions(DFIs)-an overview and role in Indian economy.Life and non-life insurance companies in India;Mutual funds-Introduction and their role in capital market development .Non-banking financail companies(NBFs).\n\n
+        <b>Unit 4</b>\n
+Overview of financial services industry \n
+Fund based and fee based financial services ,merchant banking-pre and post issues management ,underwriting .Regulatory framework relating to merchant banking in India.\n\n
+        <b>Unit 5</b>\n
+Leasing and hire-purchase\n
+Consumer and housing finance;venture capital finance ;factoring services ,bank guarantees and letter of credit;credit rating;financial counselling and portfolio management services.
+        <b>Suggested Readings:</b>\n
+1. Bhole,L.M. Financial markets and institution .Tata McGraw Hill publishing company.\n
+2. Khan ,M.Y. Indian Financial system-theory and practice,New Delhi: Vikas publishing house.\n
+3. Sharma ,G.L. and singh ,Y.P. Contemporary issues in finance and taxation . Academic foundation,Delhi.\n
+4. Khan and jain,Financial services ,Tata MCGraw Hill.\n
+5. Annual Reports of major financial institutions in India.

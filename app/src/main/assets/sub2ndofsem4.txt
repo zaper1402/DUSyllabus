@@ -1,0 +1,35 @@
+ <b>Unit 1</b>\n
+Matrices and determinants\n
+Algebra of a matrices,inverse of a matrix,matrix operation-business application.\n
+Solution of system of linear equation (having unique solution and involving not more than three variables) using matrix inversion method and cremers rule,The leontief input output model(open model only).\n\n
+        <b>Unit 2</b>\n
+Calculus 1\n
+Mathematical functions and their types-linear,quadratic,polynomial,exponential,logarthmic, and logistic function.Concepts of limit and continuity of  a function\n
+Concept and rules of differentiation ,maxima and minima involving second or higher order derivatives.\n
+Concept of marginal analysis ,concept of elasticity,applied maximum and minimum problems including effect of tax on monopolists optimum price and quality ,economic order quantity.\n\n
+        <b>Unit 3</b>\n
+Calculus 2\n
+Partial differentiation .Partial derivatives up to second oreder .Homogeneity of functions and eulers theorem .Total differentials.Differentiation of implicits functions  with the help of total differentials.\n
+Maxima and minima in case of two variables involving not more than one constraints including the use of the lagrangean multiplier.\n
+Integration.standard forms.methods of integration -by substitution ,by parts and by use of partial fractions.Definite integration .Finding areas i simple cases.\n
+Application of integration to margnal analysis .consumers and producers surplus ,rate of sales;the learning curve.\n\n
+        <b>Unit 4</b>\n
+Mathematical of finance\n
+Rates of interest -nominal ,effective- and their inter relationship in different compounding situation.\n
+Compounding and discounting of a sum using different types of rates.\n
+Types of annuities ,like ordinary ,due,deferred ,continiuos ,perpetual, and their future and present values using different types of rates of interest .Depreciation af assets ,valuation of simple ions and debentures .sinking funds.\n\n
+        <b>Unit 5</b>\n
+Linear programming\n
+Formulation of linear programming problems(LPP),graphical solution to LPPs.cases of uniques and multiple optimal solutions ,Unbounded solutions,infeasibility and redundant constraints.\n
+Solution to LPPs using simplex methods-maximization and minimization cases.shadow prices of he resources .Identification of unique and multiple optimal solutions ,unbounded solution ,infeasibility and degeneracy.\n
+The dual problem:formaion of the dual ,primal-dual solutions:(excluding solution of dual problem when the primal problem involves mixed constraints ).Economic interprretation of the dual.
+<b>Suggested Readings:</b>\n
+1. Anthony,M. and Biggs,N. Mathematics for Econmics and Finance ,Cambridge University Press.\n
+2. Ayres,Frank Jr. Theory and Problems of mathematics of finance.Schaums Outlines series,McGraw hill publishing Co.\n
+3. Budnick,P.Applied mathematics,McGraw Hill publishing co.\n
+4. Dowling ,E.T. Mathematics for economics, Schaums outlines series,McGraw hill publishing co.\n
+5. Mizrahi and Sullivan,John ,MAthematics for business and social sciences,Wiley and Sons.\n
+6. Wikes,F.M Mathematics for business ,Finance and Economics ,Thomson learning.\n
+7. Prasad,Bindra, and Mittal ,P.K.Fundamentals of business mathematics ,Har-Anand publications.\n
+8. Thukral,J.K Business ,Mathematics ,Mayurpapers backs.\n
+9. Soni,R.S.Business mathematics,Pitambar house.

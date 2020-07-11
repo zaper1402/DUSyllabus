@@ -1,0 +1,24 @@
+<b>Unit 1</b>\n
+Introduction\n
+Nature ,scope and objectives of financial management ,agency problem,time value of tmoney ,risk and return -concept and calculation (including capital assets pricing model).\n\n
+        <b>Unit 2</b>\n
+Capital budgeting\n
+The capital budgeting process,cash flow estimation ,payback period methods,accounting rate of return ,net present value(NPV), net terminal value ,internal rate of return (IRR),profitablity  index ,capital budgeting under risk-certainty equivalent approach and risk -adjusted dicoutn rates.\n\n
+        <b>Unit 3</b>\n
+Cost of capital and financing decision\n
+Sources of long-term financing ,estimation of components of cost of capital ,methods for calculating cost of equity ,cost of retained earnings ,cost of debt and cost of preference capital,weighted average cost of capital (WACC) and marginal cost of capital,capital structure-theories of capital structure 9Net income,net operating income,MM Hypothesis,traditional approach),operating and financial leverage ,determinants of capital structure.\n\n
+        <b>Unit 4</b>\n
+Dividend decision\n
+Theories for relevance and irrelevance of dividend decision for corporate valuation-walter s model,gordon s model,MM theory ,cash and stcok dividend policies in practice and determinants of dividend.\n\n
+        <b>Unit 5</b>\n
+Working capital decisions\n
+Concepts of working capital ,operating and cash cycles,risk -return trade off ,sources of short term finance ,working capital estimation ,cash management ,receivables management ,inventory management.\n
+    <b>Suggested Readings:</b>\n
+1. Home,Van., James,C. and John,Wachowicz.Fundamentals of financial management ,Pearson education.\n
+2. Ross, Stephen A., Westerfield,Randolph., and Jeffrey ,Jaffe. Corporate finance .Tata McGraw Hill.\n
+3. Srivastava,Rajic., and Mishra,Anil .Financial management ,Oxford university press,UK.\n
+4. Singh ,Preeti.Financial management ,Ane books Pvt Ltd,New Delhi.\n
+5. Singh,J.K.Financial managemnt -text and problems,dhanpat Rai and company,Delhi.\n
+6. Rustagi,R.P.Financial management galgotias publishing company.\n
+7. Pandey ,J.M. Financial management ,Vikas publishing  UNCTAD Reports.\n
+8. Bhalla,V.K.Financial management and Polic. Anmol publications,Delhi.

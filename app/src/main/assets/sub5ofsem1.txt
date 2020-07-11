@@ -1,0 +1,20 @@
+<b>Unit 1</b>\n
+Concept of risk, types of risk,managing risk,sources and measuremnet of risk, risk evaluation and prediction, disaster risk management, risk retention and transfer.\n\n
+        <b>Unit 2</b>\n
+Concept of insurance , need for insurance,globalization of insurance sector,reinsurance,co-insurance,assignment.endownment.\n\n
+        <b>Unit 3</b>\n
+Nature of insurance contract,principles of utmost good faith, insurable interest, proximit cause,contribution and subrogation, indemnity , legal aspects of insurance contract =, types of insurance, fire and motor insurance , health insurance , marine insurance, automobilic insurance.\n\n
+        <b>Unit 4</b>\n
+Control of malpractices, negligiense,loss assessment and loss control, exclusion of perils, actuaries, computation of insurance premium.\n
+Regularity framework of insurance:Role and functions of IRDA,Composition of IRDA,IRDA Act 1999.\n\n
+        <b>Suggested readingd:</b>\n
+1. George,E.Rejda.Principles of Risk Management and Insurance.Pearson education.\n
+2. Dorfman, Marks S Introduction to Risk Management and insurance .Pearson.\n
+3. All the three modules of insurance and risk management by institute of Chartered Accountantsof India.\n
+4. Gupta P.K.Insurance and Risk Management .Himalaya Publishing House.\n
+5. Mishra ,M.N. Principles and practices of insurance .S.Chand and sons.\n
+6. Dinsdale, W.A. Elements of insurance .Pitaman.\n
+7. Black,K.and H.D.Skipper, life and health insurace ,pearson Education.\n
+8. Crane ,F.Insurance Principles and practices. John Wiley and Sons,New York.\n
+9.vaughan,e.J. and Vaughan ,T. Fundamentals of risk and insurance .Wiley and sons\n
+10. Hansell,D.S/Elements of insurance .Macdonald and Evans Ltd.\n

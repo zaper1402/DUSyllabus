@@ -1,0 +1,34 @@
+<b>Unit 1</b>\n
+Introduction\n
+Concept:Need for study:Managerial functions-an overview ;coordination -essence of management\n
+Evolution of management thought:classical approach-taylor ,fayol,neo classical an human relation approach-Hawthorne experiments, behavioural approach,systems approach,contingency approach,MBO,Re-engineering,five-force analysis,learning organization ,fortune at the bottom of pyramid.\n\n
+Trends and challenges of management in global scenario ,emerging issues in management.\n\n
+        <b>Unit 2</b>\n
+Planning\n
+Types of plan-An overview.\n
+Strategicplanning-concept,process,importance and limitations;Growth strategies-internaland external.\n
+Environmental analysis and diagnosis(Internal and external environment)-Definition,importance and techniques(SWOT/TOWS-UP,BCG Matrix,Competitor analysis) , business environment- concept and components.\n
+Decision-making-concept,importance,groupdecision making,individual versus group decision making,decision making process,perfect rationality and bounded rationality,techniques(qualitative and quantitative ,MIS,DSS).\n\n
+        <b>Unit 3</b>\n
+Organising\n
+Concept\n
+Process of organizing-An overview,span of managemnet, different types of authority(line,staff and functional),decentralization,delegation.\n
+Formal and informal oragnization.\n
+Principles of organizing.\n
+Types of organization structure.\n\n
+        <b>Unit 4</b>\n
+Staffing and directing\n
+Concept of staffing-recruitment and selection;orientation;training and develeopment;career development ;performance appraisal.\n
+Motivation- concept ,importance,intrinsic and extrinsic motivation;major motivation theories -Maslow s need hierarchy theory ,Hertzberg s two factor theory ,McGregor s theory X and theory Y,Ouchi s theory Z.\n
+Leadership-concept ,importance ;major theories of leadership (Likerts scale theory, blake and mouton s grid theory,House path goal theory,Fred fielder situational leadership),Transactional leadership,Transfomational leadership,transforming leadership.\n
+Communication-Concept ,Purpose ,Process;Oral and written communication;formal and informal communication network;Barriers to comunication,Overcoming barriers to communication\n\n
+        <b>Unit 5</b>\n
+Control\n
+Concept,process ,limitation ,principles of effective control,major techniques of control-ratio analysis(ROI),budgetary control,EVA,MVA,PERT and CPM.\n\n
+        <b>Suggested Readings:</b>\n
+1. Koontz,H and Weihrich,H. Essentials of management ,Pearson Education.\n
+2. Robbins,S. and Coulter,M. Management ,Pearson education.\n
+3. Drunker P.F.Practice of management,marcury books,London.\n
+4. Chhabra,T.N.Essentials of management,Sun India.\n
+5. Griffin,R.W. Management principles and application,cengage learning.\n
+6. Luthans,F.Introduction to management ,McGraw Hill.

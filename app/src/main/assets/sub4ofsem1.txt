@@ -1,0 +1,26 @@
+ <b>Unit 1</b> \n
+Consumers Behaviour and elasticity of Demand\n
+(a) Basic demand and supply analysis.\n
+(b) Elasticity of demand :price,income and cross elasticity,point elasticity and arc elasticity, marginal revenue, average revenue and price elasticity of demand.\n
+(c) Ordinal utility analysis of consumers behavious:budget line and indifference curve ,consumer equilibrium. income consumption curve and engel curve ,price consumption curve and derivation of demand curve ,income and substitution effects of a price change;\n
+(d) Consumers surplus;\n
+(e) Revealted Preference theory\n\n
+        <b>Unit 2</b>\n
+Production and cost\n
+Total , average and marginal product curves,three stages of production ,Production isoquants,marginal rate of technical  substitution, economic region of production, Isocost lines,optimal combination of resources, the expansion path,return to scale.\n
+Cost of production: Concept of explicit costs, implicit costs and opportunity costs of production , derivation of short run  and long run cost curves.Economics and diseconomies of scale and the shape to the long run average cost.\n\n
+        <b>Unit 3</b>\n
+Perfect competition\n
+Assumptions ,Equilibrium of the firm and the industry in the short run, Supply curve of firm  and industry in the long run.Consumers and Producers Surplus and the efficiency of perfect competition .Welfare effects of an excise tax.\n\n
+        <b>Unit 4</b>\n
+Monopoly\n
+Monopoly short run and long run equilibrim .Shifts in demand curve and the absence of the supply curve.Measurement of monopoly power and the rule of thumb for pricing .Comparison of pure competition and monopoly and the social cost of monopoly power including deadweight loss. Degree of price discrimination.\n\n
+        <b>Unit 5</b>\n
+Imperfect Competition\n
+Monopolistic competition:price and output in the short run and long , monopolistic competition and economi efficiency .\n
+Oligopoly and interdependency : Cournot s duopoly model (with reaction curvers),kinked demand curve model, dominant firm price-leadership model ,centralized cartels.Prisoners delemma.\n\n\n
+        <b>Suggested Readings</b>\n
+1. Pindyck,R.S.,Rubinfeld,D.L.,and Mehta,P.L.Microeconomics. Pearson Education .\n
+2. Salcatore, Dominick ,Principles of Microeconomics. Oxford international student edition.\n
+3. Gould,J.P.,and Lazear,E.P.Microeconomics Theory .All India Traveller bookseller, New Delhi.\n
+4. Salvatore,D.Schaum s .Outline of theory and problems of Microeconomic theory, McGraw-Hill international edition.\n

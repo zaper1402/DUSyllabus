@@ -1,0 +1,24 @@
+<b>Unit 1</b>\n
+Auditing\n
+Basic principles and techniques;classification of audit ,audit planning ,internal control-internal check and internal audit;audit procedure- vouching and verificationof assets and liabilities; company auditor- Qualifications and disqualifications, appointment ,rotation,removal,remuneration ,rights and duties;Auditors report -contents and types ,liabilities of statutory auditors under the companies act 2013.\n
+Special areas of audit :cost audit ,tax audit and management audit;recent trends in auditing ;basic cosideration of ausit in EDPenvironment ;relevant auditing  and assurance standards(AASs).\n\n
+        <b>Unit 2</b>\n
+corporate governance\n
+Meaning ,theories ,models and benefits of corporate governance ;politics and governance ;board committees and their functions;insider trading ;rating agencies ;green governance /e-governance;clause 9 of listing agreement ;corporate governance in public sector undertakings;corporate funding of political parties;lass action;whistle blowing;shareholders activism.\n\n
+        <b>Unit 3</b>\n
+Major corporate governance failure\n
+BCCI(UK),mxwell communication(UK),enron(USA),world.com(USA),andersen worldwide(USA),vivendi(France),harshad mehta scam,satyam computer services ltd, and kingfisher airlines;common governance problems noticed in various corporate failures;codes and standards on corporate governance ;initiatives in India.\n\n
+        <b>Unit 4</b>\n
+Business ethics\n
+Morality and ethics ;business values and ethics;various approaches to business ethics;ethical theories ;ethical governance ;corporate ethics;CSR -extension of business ethics; benefits of adopting ethics in business ;ethics programme;code of ethics ;ethics committee.\n\n
+        <b>Unit 5</b>\n
+Corporate social responsibility (CSR)\n
+Corporate philanthropy ,meaning of CSR,CSR and CR, CSR and  corporate sustainability,CSR and business ethics ,CSR and corporate governance ,environment aspects of CSR,CSR provisionunder the companies act 2013,CSR committees,csr models,drivers of CSR ,codes and standards on CSR ,global reporting initiatives ,ISO 26000.
+    <b>Suggested Readings:</b>\n
+1. Institute of cgartered accountants of India,Auditing and assurance standards ,ICAI,New Delhi.\n
+2. Relevant publications of ICAI on auditing(CARO).\n
+3. Ghatalia,S.V. Practical auditing ,Allied Theory publishers Private Ltd,.New Delhi.\n
+4. Mallin,Christine A.Corporate governance(Indian Edition).Oxford university press,New Delhi.\n
+5. Rani,Geeta D, and Mishra, R.K. Corporate governance -theory and practice ,Excel Books,New Delhi.\n
+6. Sharma ,J.P. Corporate governance ,Business Ethics and CSR,Ane Books Pvt Ltd.,New Delhi.
+    

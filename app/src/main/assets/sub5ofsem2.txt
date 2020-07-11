@@ -1,0 +1,20 @@
+<b>Unit 1</b>\n
+Investing fundamentals\n
+Types of investment -Equity shares,IPO/FPO, bonds,Indian securities market ;the market participants ,trading of securities,security market indices.Sources of financial information .Role of stock exchange ,stock exchanges in India ;BSE,NSE,MCX,buying and selling of stocks;using brokerage and analysis recomendation. use of limit order and market order.\n\n
+        <b>Unit 2</b>\n
+Stock analysis and valuation\n
+Online trading of stocks .Understanding stock quotations,types and placing of order .Risk :its valuation and mitigation ,Analysis of the company: financial characteristics (as explained by ratio analysis ,Future prospects of the company,assessing quality of management using financial and non financial data,balance sheet and in=quarterly results ,cash flows and capital structure).Comparative analysis of companies ,stock valuations using ratios like PE ratio, PEG ratio, Price revenue ratio.Use of historic prices, simple moving average , basic and advanced interactive charts .Examining the shareholding patter of the company.Pitfalls to avoid while investing :high P/E stocks,low price stock ,stop loss ,excess averaging.\n\n
+        <b>Unit 3</b>\n
+Investing in mutual funds\n
+Background on mutual funds:advantages of investing in mutual funds .Motives of mutual fund investment ,Net asset value ,Types of mutual funds :Open ended,close ended,equity,debt,hybid,money,load vs. no load funds,factors affecting choice of mutual funds. CRISIL mutual fund ranking and its usage.\n\n
+        <b>Unit 4</b>\n
+Understanding derivates\n
+Futures,options,trading in future and options. Understanding stock market quotes on futures and options. Tyoes of orders ,Put and call options;How Put and call options work.Commodities,Derivatives of commodities, trading of commodity on MCX, currency derivatives and its trading.\n\n\n
+        <b>Suggested readings</b>\n
+1. Gitman and Joehnk,Fundamentals of investing.Peason.\n
+2. Madura Jeff.Personal finance.Pearson.\n
+3. Bodie,Alex.,Marcus and mohanty. Investment .McGraw Hill publishing co.\n
+4. Pandiyan,Punithavanthy,Security analysis and portfolio management .Vikas publication.\n
+5. www.yahoofinance.com\n
+6. www.moneycontrol.com\n
+7. www.bloomberg.com\n

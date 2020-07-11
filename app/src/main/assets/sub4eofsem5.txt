@@ -1,0 +1,19 @@
+<b>Unit 1</b>\n
+Computerized accounting :using generic software\n
+Taxation:TDS,VAT and services tax, Auditing in computerized accounting system ;Statutory audit ,voucher verification ,verification of related party transaction ,CAAT :Various tools.\n\n
+        <b>Unit 2</b>\n
+Designing computerised accounting system\n
+Designing computerised accounting system using a DBMS package\n
+Creating a voucher entry form\n
+Preparing ledgers with SQL, form and report\n
+Preparing trial balance with SQL and report\n\n
+        <b>Unit 3</b>\n
+Designing accounting support system\n
+Designing supplier and customers system for accounting using form,query ,module and report ,designing  Payroll system for accounting using form,query , module and report.
+        <b>Suggested Readings:</b>\n
+1. Boockholdt,J.L. Accounting information system ,Transaction Processing and control ,Irwin McGraw hill.\n
+2. Hall, J.A. Accounting information system ,South western college publishing.\n
+3. Gelins,Ulric J,. and Sutton,Steve g. Accounting information system ,South western Thomson learning.\n
+4. Rajaraman,V. Introduction to information technology ,PHI.\n
+5. Bharihoka,Deepak ,Fundamentals of information technology ,Excel book.\n
+6. Madan ,Sushila .Computer applications,Mayur paperbacks,New Delhi.

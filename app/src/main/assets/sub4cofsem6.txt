@@ -1,0 +1,29 @@
+<b>Unit 1</b>\n
+Advance payment of tax\n
+Tax deduction /collection at source,documentation ,return, certificates \n
+Interest payable by assessee/government\n
+Collection and recovery of tax\n\n
+        <b>Unit 2</b>\n
+Assessment ,re-assessment ,rectification of mistakes\n
+Appeal and revisions\n
+-Preparation and filing of appeals with appellate authorities\n
+-Drafting of appeal;statement of facts and statement of law\n\n
+        <b>Unit 3</b>\n
+Penalties and prosecutions\n
+Settlement commission\n
+Search ,seizeure and survey\n\n
+        <b>Unit 4</b>\n
+Transactions with persons located in notified jurisdictional area\n
+General anti-avoidance rule\n
+Tax clearance certificate\n
+Securities transaction tax\n\n
+        <b>Unit 5</b>\n
+Information technology and tax adminstration\n
+TAN(tax deduction and colletion account number),TIN(tax information network)\n
+e-TDS/e-TCS\n
+E-filing of ITRS \n
+    <b>Suggested Readings:</b>\n
+1. Singhania,Vinod K, and singhania, Monica ,Corporate tax planning and business tax procedures,Taxmann publications Pvt. Ltd. .,New Delhi.\n
+2. Ahuja ,Girish., and Gupta ,Ravi ,Corporate tax planning and management ,Bharat law House ,Delhi.\n
+3. Bajpai,Om Shanker, Search ,seizure and survey ,Taxmann publications Pvt.Ltd., New Delhi.        \n
+    

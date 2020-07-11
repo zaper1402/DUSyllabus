@@ -1,0 +1,31 @@
+<b>Unit 1</b>\n
+Accounting for share capital and Debentures\n
+Issue,forfeiture and reissue of forfeited shares-concept and process of book building .Issue of rights and bonous shares.Buy back of shares.Redemption of preference shares.Issue and redemption of Debentures.\n\n
+        <b>Unit 2</b>\n
+Final Accounts\n
+Preparation of profit and loss account and balance sheet of preference entities,excluding calculation of managerial remuneration.Disposal of company profits.\n\n
+        <b>Unit 3</b>\n
+Valuation of goodwill and valuation of shares\n
+Concepts and calculation -simple problem only.\n\n
+        <b>Unit 4</b>\n
+Concepts and accounting treatment as per accounting standards:14(ICAI)(excluding inter company holdings).Internak reconstruction:concepts and accounting treatment excluding scheme of reconstruction.\n\n
+        <b>Unit 5</b>\n
+Accounts of holding companies/Parent companies\n
+Preparation of consolidated balance sheet with one subsidiary company.Relevant provision of accounting standard:21(ICAI).\n\n
+        <b>Unit 6</b>\n
+Banking companies\n
+Difference between balance sheet of banking and non banking company;prudential norms.Asset structure of a commercial bank.Non-performing assets(NPA).\n\n
+        <b>Unit 7</b>\n
+Cash flow statement\n
+Preparation of cash flow statement as per accounting standards(AS):3(revised)(ICAI):Indirect method only.\n\n\n
+        <b>Note:</b>\n
+1. The relevant indian accounting standards in line with the IFRS for all the above tpics shouldbe covered.\n
+2. Any revision of relevant indian accounting standard would become applicable immediately.\n\n
+Suggested Readings:\n
+1. Monga ,J.R.Fundamentals of corporate accounting.Mayur paper backs,New Delhi.\n
+2. Maheshwari,S.N. and maheshwari,S.K. Corporate accounting .Vikas publishing house,New Delhi.\n
+3. Shukla ,M.C. Grewal,T.C and Gupta ,S.C. Advanced accounts,Vol-2,S.Chand  and co.,New Delhi.\n
+4. Ahmed,Naseem,Corporate accounting,ANE Books Pvt.Ltd.,New Delhi.\n
+5. Gupta,Nirmal ,K.L.Corporate accounting.Sahitya Bhawam,Agra.\n
+6. Jain,S.P. and Narang,K.L. Corporate accounting .Kalyani publishers,New Delhi.\n
+7. Compendium of statement and standards of accounting.The institute of chartered accountantsof India,New Delhi.\n

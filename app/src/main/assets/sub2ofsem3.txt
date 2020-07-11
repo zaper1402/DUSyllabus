@@ -1,0 +1,26 @@
+<b>Unit 1</b>\n
+        Introduction\n
+Basic concepts ;income ,agricultural income,person ,assessee,assessment year,previous year,gross total income,total income,max marginal rate of tax;permanent account number(PAN).Residential ;scope of total income on the basis of residential status exempted income under section 10.\n\n
+        <b>Unit 2</b>\n
+Computation of income under different heads-1\n
+Income from salaries;income from house property.\n\n
+        <b>Unit 3</b>\n
+Computation of income under different heads-2\n
+Profits and gains of business or profession;capital gains ;income from other sources.\n\n
+        <b>Unit 4</b>\n
+Computation of total income and tax liability\n
+Income of other persons include in assessee s total income;aggregation of income and set-off and carry forward of losses;deductions from gross total income;rebates and reliefs computation of total income of individuals and firms;tax liability of an individual and a firm ;five leading cases decided by the supreme court.\n\n
+        <b>Unit 5</b>\n
+Preparation of return of income\n
+Filling of return :manually ,on0line of return of income and TDS;Provision and procedures of compulsory on-line filing of return for specified assesses.\n\n
+        <b>Suggested Readings:</b>\n
+1. Singhania,Vinod K, and Singhania ,Monica.students, Guide to income tax,University edition ,Taxmann publications Pvt,Ltd., New Delhi.\n
+2. Ahuja,Girish and Gupta,Ravi ,Systematic approach to income tax,Bharat law House,Delhi.\n
+3. Pagare,Dinkar.Law and practice of income taz ,Sultan Chand and Sons,New Delhi.\n
+4. Lal, B.B.Income tax law and Practice ,Konark publications,New Delhi.        \n\n
+        <b>Journals</b>\n
+1. Income tax reports.Company law institute of India Pvt,Ltd Chennai.\n
+2. Taxman.Taxman allied services Pvt.Ltd.,New Delhi.\n
+3. Current Tax Reporter ,current tax reporter ,Jodhpur.\n\n
+        <b>Software</b>\n
+Excel utility available at incometaxindiaefilling.gov.in.\n

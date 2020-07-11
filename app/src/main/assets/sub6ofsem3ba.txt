@@ -1,0 +1,18 @@
+<b>Unit 1 Introduction</b>\n
+Nature, scope and objectives of financial management. Time value of money. Concept of risk and return. Types of financial decisions. (10 Lectures)\n\n
+        <b>Unit II Capital Budgeting</b>\n
+Capital Budgeting process. Cash flow estimation. Techniques of capital budgeting- payback period, ARR, NPV, IRR and profitability index, their advantages and disadvantages. Discounting and Non— discounting Cash flow techniques (15 Lectures)\n\n
+        <b>Unit III Financing Decision and Lost of Capital.</b>\n
+Sources of long term financing. Specific and weighted average cost of capital. Capital structure theories- Net income, Net operating income, Modigliani-Miller and Traditional theory. Operating and financial leverage. Optimal capital structure, Cost of Equity and Debt, EBIT-EPS Analysis. (15 Lectures)\n\n
+        <b>Unit IV Dividend decision</b>\n
+Theories of dividend- Walter s model, Gordon s model and Miller—Modigliani Hypothesis. Dividend Signalling Theory. Dividend policies in practice. (10 Lectures)\n\n
+        <b>Unit V Working capital management</b>\n
+Concept of working capital. Working capital financing. Cash management, Receivables management, Inventory management (only theory). (10 Lectures)\n\n
+        <b>Suggested Readings:</b>\n
+l. Pandey, I. M., Financial Management, Vikas Publishing House (P) Ltd.\n
+2. Bhalla, V. K., Financial Management and Policy, Anmol Publications, Delhi\n
+3. Van Horne, J.C., Financial Management and Policy, Prentice Hall oflndia.\n
+4. Khan. M. Y., and Jain.,, P. K Financial Management, Text and Problems, Tata McGraw Hill New Delhi.\n
+5. Rustogi, R. P., Basic Financial Management, Sultan Chand and Sons, New Delhi.\n
+6. Chandra, Prasanna financial Management-Theory and Practice, Tata McGraw Hill.\n\n
+        <b>Note:</b> Latest edition of text book may be used.

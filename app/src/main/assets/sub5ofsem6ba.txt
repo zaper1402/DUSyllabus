@@ -1,0 +1,17 @@
+<b>Unit I</b>\n
+Cyber World: An Overview\n
+Concept of Internet; Internet Governance; E-Contract; E-Forms; Encryption; Data Security; Cyber Crime and Cyber Laws, Investigation of Cyber Crimes Lectures 15\n\n
+        <b>Unit II</b>\n
+The Information Technology Act, 2000 \n
+K Definitions: Access, Addressee, Acljudicating Officer, Aftixing Digital Signatures, Appropriate Government, Certifying Authority, Certification Practice Statement, Computer, Computer Network, Computer Resource, Computer System, Cyber Appellate Tribunal, Data. Digital Signature, Electronic Form, Electronic Record, Information, Intemtediary, Key Pair, Originator, Public Key, Secure System, Verify, Subscriber. Lectures 10\n\n
+        <b>Unit III</b>\n
+Authentication Of Electronic Records, Legal Recognition Of Electronic Records, Legal Recognition Of Digital Signatures, Use Of Electronic Records And Digital Signatures In Government And its Agencies, Retention Of Electronic Records, Attribution, Acknowledgement And Dispatch Of Electronic Records; Secure Electronic Records And Digital Signatures Lectures 15\n\n
+        <b>Unit IV</b>\n
+Regulation Of Certifying Authorities, Appointment And Functions OfControiler, License To Issue Digital Signatures Certificate, Renewal Of License, Controller"s Powers, Procedure To Be Followed By Certifying Authority, Issue, Suspension And Revocation Of Digital Signatures Certificate, Duties OfSubscribers; Penalties And Adjuclication; Appellate Tribunal; Offences Lectures I5\n\n
+        <b>Unit V</b>\n
+K The Information Technology (Certiiying Authorities) Rules, 2000; Cyber Regulations Appellate Tribunal (Procedure) Rules, 2000. Lectures 5\n\n
+        <b>Suggested Readings:</b>\n
+I. Sharma, J. P., and Kanojia, Sunaina, "Business Laws". Ane Books Pvt Ltd, New Delhi.\n
+2. Taxmann Publications Pvt. Ltd., New Delhi, "information Technology Rules 2000 and Cyber Recognizaions Appellate Trlbumzl Rules 2000 with lnformatfon Technology Act 2000*2\n
+3. Painttal, D., "Law oflnformution Teclnology" Taxmann Publications Pvt. Ltd., New Delhi.\n\n
+        <b>Note:</b> Latest edition of text book may be used.

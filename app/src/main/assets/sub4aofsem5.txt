@@ -1,0 +1,25 @@
+<b>Unit 1</b> \n
+Introduction \n
+Meaning ,objectives, nature and scope of management accounting ,difference between cost accounting and management accounting .Cost control and cost reduction ,cost management.\n\n
+        <b>Unit 2</b>\n
+Budgetary control\n
+Concept of budget ,budgeting and budgetary control ,objectives ,merits and limitations .Budget administration ,functional budgets,fixed and flexible budgets.Zero base budgeting .Programme and performance budgeting.\n\n
+        <b>Unit 3</b>\n
+Standard costing\n
+Meaning of standard cost and standard costing ,advantages ,limitations and applications.Variance analysis -material,labour ,overheads, and sales variances,dispositionof variances ,control ratios.\n\n
+        <b>Unit 4</b>\n
+Marginal costing\n
+Absorption versus variable costing ,distinctive features and income determination .Cost volume profit analysis ,profit/volume ratio.Break-even analysis -algebraicand graph methods.Angle of incidence,margin of safety ,key factor ,determination of cost indifference point.\n\n
+        <b>Unit 5</b>\n
+Decision making\n
+Steps in decision making process ,concept of relevant costs and benefits ,various short term decision making situations-profitable product mix ,acceptance or rejection of special/export offers,make or buy ,addition or elimination of a product line,sell or process further , operate or shut down .Pricing decisions;major factors influencing pricing decisions,various methods of pricing.\n\n
+        <b>Unit 6</b>\n
+Contemporary issues\n
+Responsibility accounting:Concept,significance,different responsibility centres,divisional performance measurement :financial and non-financial measures ,transfer pricing.
+    <b>Suggested Readings:</b>\n
+1. Lal ,Jawahar., and Srivastava,Seema.Cost accounting.McGraw Hill publishing co. New Delhi.\n
+2. Arora,M.N. Management accounting,Himalaya publishing house.\n
+3. Jhamb,H.V.Management accounting,Anc books Pvt Ltd New Delhi.\n
+4. Nigam, B.M.Lall., and Jain ,I.C.Cost accounting -principles and practice .Prentice Hall of India,New Delhi.\n
+5. Khan,M.Y. and Jain ,P.K. management accounting,Tata McGraw Hill publishing Co., New Delhi.\n
+6. Drury,Colin,Management and cost accounting,Thomson learning.

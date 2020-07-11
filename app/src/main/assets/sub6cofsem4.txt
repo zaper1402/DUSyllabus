@@ -1,0 +1,17 @@
+<b>Unit 1</b>\n
+Conceptual framework \n
+Meaning of e-filing ;difference between e-filing and regular filing of returns,benefits and lmitations of e-filing ,types of e-filing;e-filing process;relevant notification.\n\n
+        <b>Unit 2</b>\n
+Income tax and e-filing of ITRs\n
+Introduction to income tax -basic terminology ,types of assessee,income taxable under different heads,basics of computation of total income and tax liability ,deductions available from gross total income ,PAN card ,due date of filng of income tax return.\n
+Instructions for filing out from from ITR-1,ITR-2,ITR-3,ITR-4S,ITR-5,ITR-6. Introduction o income tax portal;preparation of electronic return(practical workshop).\n\n
+        <b>Unit 3</b>\n
+TDS and e-filing of TDS returns\n
+Introduction to the concept of TDS ;provision regarding returns of TDS ;types of forms for filling TDS returns;practical workshop on e-filing of TDS returns.\n\n
+        <b>Unit 4</b>\n
+Services tax and e-filing of services tax returns\n
+Introduction to service tax;relavant  notification regarding e-filing of service tax returns;steps for preparing service tax returns ;practical workshop on e-filing of service tax return.\n\n
+        <b>Suggested reading</b>\n
+Ahuja,girish and gupta ,Ravi ,Systematic approach to income tax ,Bharat law house,Delhi.\n\n
+        <b>Software</b>\n
+Excel utility available at incometaxindiaefiling.gov.in.

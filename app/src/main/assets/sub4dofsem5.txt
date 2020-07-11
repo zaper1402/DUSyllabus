@@ -1,0 +1,21 @@
+<b>Unit 1</b>\n
+Origin of banking ,banker and customer relationship,general and special types of customer ,types of deposits,origin and growth of commercial banks in India.India s approach to banking sector reforms,international security standards in banking ,global financial crisis and India s banking sector ,achievements of financial sector reforms and areas of concern,\n\n
+        <b>Unit 2</b>\n
+Commercial banks;Credit  allocation policies , credit market reforms,flow of credit to agriculture and allied activities ,credit flow to micro ,small and medium enterprises,technological channels for the delivery of financial services,customer services in banking,rle of foreign banks,advantages and disadvantages of foreign banks ,road map for foreign banks in India.\n\n
+        <b>Unit 3</b>\n
+Operations of bankiing ,cheques crossing and endorsement ,typesand rules of crossing .Principles of sound lending ,secured vs. unsecured advances,types of advances ,advance against various securites ,securitisation of standard assets,anti-money laundering guidelines , credit  information bureau of India Ltd (CIBIL) ;balance sheet of a bank;special item,off balance sheet item,basel 1,Basel 2,migration to basel 2 norms.\n\n
+        <b>Unit 4</b>\n
+Era of internet banking and its benefits ,home banking .mobile  banking ,virtual banking , ECS(Electronic clearing system),E-payments ,plastic money ,EFT (Electronic fund transfer) ,e-money ;electronic purse;digital cash ,safeguards for internet banking,critical comparison of traditional banking methods and e-banking.\n\n
+        <b>Unit 5</b>\n
+Basic concepts of risk,types of business risk,assessment and transfer ,basic principles of utmost good faith ,insurable interest ,indemnity ,economic function,proximate cause,subrogation and contribution.\n\n
+        <b>Unit 6</b>\n
+Legal aspects of insurance contract ,types of insurance :Life and non life ,re-insurance ,risk and return relationship ,regulatory frame work of insurance ;Role ,power and functions of IRDA,IRDA act 1999,Bancassurance.
+    <b>Suggested Readings:</b>\n
+1. Bhasin,Niti. Indian Financial system :Evolution and present structure ,New Century publications.\n
+2. Agarwal,O.P. Banking and insurance ,Himalya publishing house.\n
+3. Suneja,H.R. practical and law of banking ,Himalya publishing house.\n
+4. Saxena ,G.S. Legal aspects of banking operations,Sultan chand and sons.\n
+5. Gupta,P.K. /insurance and risk management ,himalya publishing house.\n
+6. Mishra,M.N. principles and practices of insurance ,S.Chand and sons.\n
+7. Black, K...and Skipper ,H.D. /life and health insurance ,Pearson Education.
+    

@@ -1,0 +1,42 @@
+<b>Unit 1</b>\n
+(a)Theoretical Framework\n
+Accounting as an information system,the users of financial accounting information and their neends. Qualitative characteristicsof accounting information .Functions,advantages and limitations of accounting .Branches of accounting .Basic of accounting;cash basis and accrul basis.\n
+the nature of financial accounting principles-Basis concepts and conventions: entity,money measurement ,going concern,cost,realization,accruals,periodicity,consistency,prudense(conservatism),materiality and full disclosures.\n
+Financial accounting standards:Concepts,benefits,procedure for issuing accounting standards in India.International Financial Reporting Standards(IFRS):-Need and procedures, Convergence to IFRS.\n
+Distinction b/w Indian accpunting standards(IND ASs and Accounting standards(AS).\n
+(b) Accounting Process\n
+From recording of a business transaction to preparation of trial balance including adjustment:Capital and Revenue expenditures and Receipts,Preparation of profit and loss account and balance sheet .(Sole Proprietorship only).\n
+(c)Computerised Accounting System\n
+Computerised accounting system :Computerized Accounts by using and popular accounting software:Creating a company;Configure and features setting ;Creating Accounting Ledgers and Groups;Creating Stock items and groups;Vouchers Entry ; Generating reports-cash book,ledger accounts,trial balance ,profit and loss account,balance sheet ,funds flow statement,cash flow statement,selecting and shutting a company;backup and restore data of a company.\n\n
+        <b>Unit 2</b>\n
+(a)Business Income\n
+Measurement of business income-Net income:the accounting period,the continuity doctrine and matching concept. Objectivesof income measurement.\n
+Revenue:concept,revenue recognition principles, recognition of expenses.\n
+The nature of depreciation .The accounting of depreciation.Factore in the measurement of depreciation .Methods of computing depreciation:straight line method and diminishing balance method;Disposal of depreciable assests-change of method.\n
+Inventories:Meaning. Signifiance of inventory valuation.Inventory record systems:periodic and prepetual.Methods:FIFO,LIFOand weighted average.\n
+(b) Preparation of financial statements of not for profit organization.\n\n
+        <b>Unit 3</b>\n
+Accounting for hire purchase and installment system\n
+Caculation of interest, partial and full repossession, Hire purchase trading (total  cash price basis),stock and debtors system.Concepts of operating and financial lease.\n\n
+        <b>Unit 4</b>\n
+Accounting for Inland Branches\n
+Concepts of dependent branches;accounting aspects;debtors system,stock and debtors system ,branch final accounts system and whole sale basis system,Independent branches,Concept-accounting treatment:important entires and preparation of consolidated profit profile and loss accounts and balance sheet.\n\n
+        <b>Unit 5</b>\n
+Accounting for Dissolution of the partnership firm\n
+Accounting of dissolution of the partnership firm including insolvency of partership ,sale to a limited company and piecemeal distibution.\n\n
+        <b>Notes</b>\n
+1. The relant Indian accounting standards in line with the IFRS for all the above topics should be covered.\n
+2. Any revision of relevant Indian accounting standrad would become applicable immediately.\n
+3. There shall be  credit hrs. for lectures + one credit hr. (Twopractical periods per week per batch) for practical lab + one credit hr for tutorials (per group).\n
+4. Examination scheme for computerised accounting  systems -Practical for 20 marks .The practical examination will be for 1 hour.\n
+5. Theory exam shall carry 80 marks.\n\n
+    <b>Suggested Readings</b>\n
+1. Mongs,J.R, Financial accounting; Concepts and applications, Mayoor paper backs, New Delhi.\n
+2. Shukla,M.C. Grewal ,T.S, and gupta ,S.C. Advanced accounts ,Vol-1.S.Chand and co., New Delhi.\n
+3. Maheshwari, S.N., and Maheshwari ,S.K. Financial accounting ,Vikas publishing house ,New Delhi.\n
+4. Lal,Jawahar and Srivastava, Seema. Financial accounting test and problems, Himalya publishing house, New Delhi.\n
+5. Tulsian,P.C,Financial accounting ,Tata McGraw Hill, New Delhi.\n
+6. Jain, S.P and Narang ,K.L, Financial accounting ,Kalyani publishers, New Delhi.\n
+7. Gupta, nirmal , Financial accounting and auditing ,Kalyani Publishers, New Delhi.\n
+8. Compendium of statements and standards of accounting . The Institute of Chartered accountants of India ,New Delhi.\n
+9. Horngren ,Charles T.Introduction to financial accounting ,Pearson education.

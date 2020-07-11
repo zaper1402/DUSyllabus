@@ -1,0 +1,62 @@
+<b>Unit 1: Basic Knowledge of the Computer </b>. (18 Lectures)\n
+I. History of Computer, Generations of Computers, characteristics of Computers Advantages, Functions of computers, Limitations of Computers, Types of Computers. (3 Lecture)\n
+2. Knowledge ofComputer Parts and their Functions. Hardware, Firmware, Live—ware, Software. (3 Lecture)\n
+3. Types of Software- System software: Operating System and its functions, Translators: Compilers and Interpreters; Application Software: General Purpose Packaged Software and tailor-made software (3 Lectures)\n
+4. Layout of keyboard - Touch and Sight System of Computer. (3 Lectures)\n
+5. Internet: Meaning, Growth, and Types, Basic internet Terminologies Webpage, Homepage, World-wide Web, E- mail, Website, Client—Server relationship, E-mail. (3 Lecture)\n
+6. Basics of Networking and Internet Security, Internet Protocols, Net Etiquettes, Usage of Internet for Society, Search Engines and their types. (3 Lectures)\n\n
+        <b>Unit II. Word Processing </b>(22 Lectures)\n
+l. Introduction to word processing.\n
+2. Word Processing Concepts\n
+3. Working with word document: \n
+a. Opening an existing document/creating a new document\n
+b. Saving, Difference between Save and Save As\n
+c. Selecting text\n
+d. Editing text\n
+e. Finding and replacing text\n
+f. Closing a document\n
+g. Formatting Text\n
+H. Checking and Correcting spellings\n
+i. Justification and Alignment\n
+J. Bullets and Numbering\n
+k. Tabs O  \n
+l. Paragraph Formatting\n
+m. Page formatting\n
+n. Mail Merge\n
+o. Use of Smart Art Tool\n\n
+        <b>Unit Ill: Spreadsheet </b>(15 Lectures)\n
+ii. Spreadsheet concepts.\n
+iii. Creating a work book.\n
+iv. Saving a work book.\n
+v. Editing a work book.\n
+vi. Inserting and deleting work sheets.\n
+vii. Entering data in_ a cell.\n
+viii, Formulae Copying\n
+ix. Moving data from selected cells.\n
+x. Handling operators in formulae.\n
+xi. Inserting C iartsz LINE, BAR, PIE\n
+xii. Use of basics formulae used in excel\n
+xiii. Cell referencing and their types\n
+xiv. Use ofbasic functions — Financial, Logical, Statistical, Mathematical\n
+xv. Preparing generalized worksheets.\n\n
+        <b>Unit IV: Power Point </b>_ (5 Lectures)\n
+i. Meaning of Power Point\n
+ii. Uses of Power Point\n
+iii. Slide Designs\n
+iv. Slide Layout\n
+v. Slide Sorter\n
+vi. Slide Show\n
+  Print ogions\n
+vin. Set up ow \n
+ix. Rehears Trmings\n
+x. Slide Transition\n
+xi. Slade Animation\n\n
+        <b>Suggested Reading</b>\n
+l. Madan, Sushila, Compz.atei·AppIicotions in Buisnes, Mayur Paperbacks, New Delhi.\n
+2. Arora, Sumita, Computer Applications in Buisness, Dhanpat Rai and Co. New Delhi.\n
+3. ltl Education Solutions Limited "Introduction to information Technology Pearson Publishers New Delhi\n
+4. Rajaraman, V., Introduction to Information Technology, PHI.\n
+5. Sinha, Pradeep K., and Sinha, Preeti, Foundation of Computing, BPB, Publication,\n
+6. Bharihoka, Deepak, Fundoments of Information Technology, Excel Book.\n
+7. Saxena, Sanjay, A First Course in Computers, Vikas Publishing House.\n\n
+        <b>Note:</b> Latest edition of text book may be used.

@@ -1,0 +1,25 @@
+<b>Unit 1</b>\n
+Introduction\n
+Introduction to computer-characteristics of computers,the computer system ,parts of computers;computer  H/W setup,configuration ,networking ,mobile H/W device and types wireless networking ;operating system -introduction to operating system ,An overview of various computer and mobile OS and application (UN IX/Linux ,DOS,Windows,android,windows mobile ,ios like),feature of latest windows operating system and its management  and networking (installation,backup ,security,user control),usage of payment gateways.\n\n
+        <b>Unit 2</b>\n
+Introduction to essential tools\n
+Introduction to facilities and commonly used features of:\n
+a) Word:working with word document ,inserting ,filling and formatting a table ,mail merge including linking with access database,creating macros -sending e-mail from word import/export of files converting word document to web document,pdf files hyperlinks ;OLE security features in MS-Word -Protection  of document -password for documents -checking for viruses in macros ,referencing ,creating bibiography,manage sources and citation ,review documents.\n
+b) Powerpoint :Preparing presentation,slides,handouts,speakers notes -outlines-media clips-charts-graphs,adding the transitions to the slide show -special effects in detail,-setting slide timing.\n
+c) Spreadsheet: creating word book,rearranging worksheet ,organizing charts and graphs,ranges and functions and formulae:mathematical ,statistical financial functions such as NPV(Net present values),future value ,IRR(internal rate of return),EMI(equated monthly installments,compounding yearly,periodic and monthly)-Auto calculate using names in a formula,formula editing ,consolation of data and data analysis-sorting list ,filter and more filtering techiques -consolidate data in multiple worksheets -what if analysis ,goal seek scenario manager ,solver,lookup functions-sub total,nested -IF,statistical analysis ;data validation and protection -create a dropdowm list from a range of cells -apply data validation to cells -copy data validation setting,remove data validation-find cell that have data validation ,protect cell data ,using password to protect sheet and workbook-use validation to create dependent list;pivot table reports and pivot chart reports.\n\n
+        <b>Unit 3</b>\n
+Using spreadsheet for data analysis and reporting features:\n
+Using spreadsheet for following ourpose and making reports:loan and lease statement,ratio analysis,payroll statements,capital budgeting,depreciation accounting ,graphical representation of data ,frequency distribution and its statistical parameters,correlation and regression.\n\n
+        <b>Unit 4</b>\n
+Database designs for accountingand business applications\n
+Reality-expressing the application ;creating initial design in entity relationship(ER) model ;Transforming ER model to relational data model concepts ;implementin RDM design using an appropriate DBMS.\n
+SQL and retieval of information:Basic queries in SQL;embedded queries in SQL ;insert delete and upadate statements in SQL.\n
+DBMSsoftware-environment ;Tables ;forms ;queris ;reports;modules;applying DBMS in the areas of accounting ,inventory ,HRM and its accounting ,managing the data records of employee ,suppliers and customers .\n\n
+        <b>Unit 5</b>\n
+CAAT Tools\n
+Capabilities and importing data from accounting and others application system-an introduction;analytical reports ,duplicates /gaps,sorting and charting ;stratification ,summarization ,statictics and aging- an introduction ;sampling ,macros and audit trail.\n\n\n
+        <b>Suggested readings</b>\n
+1. Rajaraman,V.introduction to information technology ,PHI.\n
+2. Sinha ,Pradeep K, and Sinha ,preeti ,foundation of computing ,BPB publication.\n
+3. Kumar,muneesh,business information system ,vikar publishing house .\n
+4. Fizgerald and Dennis .business data communication and networking ,Wiley.\n

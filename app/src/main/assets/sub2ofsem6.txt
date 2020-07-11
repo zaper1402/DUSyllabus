@@ -1,0 +1,16 @@
+<b>Unit 1</b>\n
+Service tax\n
+Concepts and generic principles ;sources of service tax law;charge of service tax and taxable service (meaning of service,negative list ,mega exemption notification) ;place of provision of services ;point of taxation ;valuation of taxable services;Exemptions and abatements ;payments of service tax(including reverse charge mechanism);Service tax pocedures;accounting codes of services tax return ;filing of returns demand ,adjudication and offences ;liability and refund ;penalties ;interest;CENVAT credit ;e-filing of service tax return.\n\n
+        <b>Unit 2</b>\n
+VAT\n
+Concepts and general principles ;calculation od VAT liability including input tax credits ;small dealers and composition scheme ;VAT procedures;treatment of stock and branch transfer under state VAT acts,filing and return under state VAT Act ;e-filing;practical problems on VAT.\n\n
+        <b>Unit 3</b>\n
+Central excise\n
+Levy and collection of exercise duty ;goods and excisable goods;manufacture and manufacturer;dutiability of intermediate products and captive consumption ;packagig ,labelling and branching activities ;determination of taxable event for change of duty ;valuation ;CENVAT;general procedures ;export procedures;bonda and types of bond,refund and appeals;remission of duty and destruction of goods ;SSI,Job work.\n\n
+        <b>Unit 4</b>\n
+Custom laws\n
+Basic concepts of customs law-territorial waters,high seas;types of custom duties -basic ,countervailing and anti-dumping duty ,protective duty ,safeguard duty,classification of goods,warehousing -special provisons of warehousing ,valuation ,custom procedures,import and export procedures ,baggage ,exemptions from custom duty.\n\n
+        <b>Suggested readings</b>\n
+1. Kumar ,sanjeev nsystematic approach to indirect taxes.\n
+2. Datey,V.S indirect tax law and practice ,Taxmann publication pvt ;td,Delhi.\n
+3. Ahuja,Grish and gupta ,ravi .indirect taxes,flair publication pvt. ltd.

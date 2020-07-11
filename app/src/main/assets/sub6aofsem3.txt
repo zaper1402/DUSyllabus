@@ -1,0 +1,29 @@
+<b>Unit 1</b>\n
+Introduction:\n
+Meaning ,nature,concepts ,advantages,disadvantages and reasons for transacting online types of E-Commerce,e-commerce business models (introduction ,key elements of a business model and categorizing major E-commerce business models).forces behind e-commerce.\n
+Technology used in e-commerce :the dynamics of world wide web and internet (meaning evolution and features):Designing ,building and launching e-commerce website (A systematic approach involving decisions regarding selection of hardware ,software,outsourcing vs. in-house development of a website).\n\n
+        <b>Unit 2</b>\n
+Security and encryption :\n
+Need and concepts ,the e-commerce security evironment :(dimension and scope of e-security),security threats in the e-commerce environment (security intrusions and breaches ,attacking methods like hacking ,sniffing ,cyber-vandalism etc).Technology solutions(Encryption,security channels of communication,protecting networks and protecting serves and client).\n\n
+        <b>Unit 3</b>\n
+Website designing\n
+Introduction to HTML :tags and attributes :text formatting ,fonts ,hypertext links,tables,images,lists,forms,frames,cascading style sheets\n\n
+        <b>Unit 4</b>\n
+E-Payment system\n
+Models and methods ofe-payments (Debit card,credit card ,smart card,e-money),Digital signatures (procedure,working and legal position),payment gateways ,online banking (meaning ,concepts,importance ,electronic fund transfer ,automated clearing house ,automated ledger postig),risks involved in e-payments.\n\n
+        <b>Unit 5</b>\n
+On-line business transactions\n
+Meaning,purpose, advantages and disadvantages of transacting online, e-commerce application in various industries like{banking ,insurance,ayment of utility bills, online marketing ,e-tailing (popularity ,benefits,problem and features) ,online services(financial ,travel and career), auctions,online portal, online learing ,publishing and entertainment }Online shopping (amazon,snapdeal,alibaba,flipkart etc).\n\n
+        <b>Unit 6</b>\n
+Security and legal aspects of e-commerce\n
+Threats in e-commerce ,security of client and service-provider,cyber laws-Relevant provisions of information technology act 2000,offences ,secure electronic records and digital segnatures penalties and adjustment.\n\n
+        <b>Note:</b>\n
+There shall be 3 credit hrs. for lectures +one credist hrs(2 practical periods per week per batch) for practical lab.\n
+<b>Suggested Readings</b>\n
+1. Agarwala,Kamlesh N.,Lal,Amit and Agarwala,Deeksha,Business on the Net :An introduction to the whats and hows of E-Commerce,Macmillan India,Ltd.\n
+2. Bajaj,Deobyani nag,E-Commerce,Tata McGraw Hill Company,New Delhi.\n
+3. Turban,E,et. al .Electronic commerce :A Managerial Perspective ,Pearson education Asia.\n
+4. Diwan,Prag. and Sharma ,Sunil,Electronic commerce-A managers guide to E-Business. Vanity books International ,Delhi.\n
+5. Kosiur,David,Understanding Electronic commerce,Prentie hall of India Private Ltd.New Delhi.\n
+6. Whiteley,David,E-Commerce, McGraw Hill,New York.        \n
+    

@@ -1,0 +1,24 @@
+ <b>Unit 1</b>\n
+Introduction\n
+Meaning ,objective and advantages of cost acocunting ,difference between financial ,cost and management accounting .Cost concepts and classifications,elements of cost ,installation of costing system ;role of a cost accountant in an organization.\n\n
+        <b>Unit 2</b>\n
+Elements of cost :Material and labour\n
+a) Material:Material/inventory control techniques,Accounting and control of purchase ,storage and issue of material.Methods of pricing of materials issues-FIFO,LIFO ,Simple average,Weighted average ,replacement,standard cost,treatment of material losses.\n
+b) Labour:accounting and control of labour cost .Time keeping and time booking .Concept and treatment of idle time ,over time,labour turnover and fringe benefits.Methods of wage payment and the incentive schemes-Hasley,Rowan,Taylors differential piece wage.\n\n
+        <b>Unit 3</b>\n
+Elements of cost:overheads\n
+Classification ,allocation,apportionment and absorption of overheads;under and over-absorption,capacity levels and costs ;treatment of certain items in costing like interest on capital,packing expenses,bad debts,research and development expenses;activity based cost allocation.\n\n
+        <b>Unit 4</b>\n
+Methods of costing\n
+Unit costing,job costing,contract costing,process costing(process losses,valuation of work in progress,joint and bu-products),service costing(only transport).\n\n
+        <b>Unit 5</b>\n
+Cost accounting systems\n
+Integral and on-integral systems,reconciliation of cost and fnancial accounts.\n
+    <b>Suggested Readings:</b>\n
+1. Lal,Jawahar., and Srivastav ,Seema.Cost accounting ,McGraw Hill Publishing Co., New Delhi.\n
+2. Nigam ,B.M.Lall., and Jain,I.C. cost accounting :Principles ,Methods and techniques PHI Pvt.Ltd,New Delhi.\n
+3. Banerjee,Bhabatos,Cost accounting -theory and practice ,PHI Pvt,Ltd,New Delhi.\n
+4. Jham,H.V.Fundamentals of cost accounting,Ane Books Pvt Ltd,New Delhi.\n
+5. Arora,M.N. Cost accounting-Principles and practice .Vikas Publishing House ,New Delhi.\n
+6. Shukla,M.C. Grewal,T.S , and Gupta ,M.P. cost accounting ,Text and problems,S.Chand and Co. Ltd. ,New Delhi.\n
+    

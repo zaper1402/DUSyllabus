@@ -1,0 +1,52 @@
+<b>I. Introduction to the course </b>(6 lectures)\n
+Definition and characteristics of public opinion, conceptions and characteristics, debates about its role in a democratic political system, uses for opinion poll\n\n
+        <b>II. Measuring Public Opinion with Surveys: Representation and sampling</b> (6 lectures)\n
+a. What is sampling? Why do we need to sample? Sample design.\n
+b. Sampling error and non-response\n
+c. Types of sampling: Non random sampling (quota, purposive and snowball sampling); random sampling: simple and stratified\n\n
+        <b>III. Survey Research </b>(2 lectures)\n
+a. Interviewing: Interview techniques pitfalls, different types of and forms of interview\n
+b. Questionnaire: Question wording; fairness and clarity.\n\n
+        <b>IV. Quantitative Data Analysis</b> (4 lectures)\n
+a. Introduction to quantitative data analysis\n
+b. Basic concepts: correlational research, causation and prediction, descriptive and inferential Statistics\n\n
+        <b>V. Interpreting polls</b> (6 lectures)\n
+Prediction in polling research: possibilities and pitfalls\n
+Politics of interpreting polling\n\n
+        <b>READING LIST</b>\n\n
+        <b>I. Introduction to the course</b>\n
+Essential Readings:\n
+R. Erikson and K. Tedin, (2011) American Public Opinion, 8th edition, New York: Pearson Longman Publishers,. pp. 40-46.\n
+G. Gallup, (1948) A guide to public opinion polls Princeton, Princeton University Press, 1948. Pp. 3-13.\n\n
+        <b>II. Measuring Public Opinion with Surveys: Representation and sampling</b>\n
+Essential Readings:\n
+G. Kalton, (1983) Introduction to Survey Sampling Beverly Hills, Sage Publication.\n
+Lokniti Team (2009)  National Election Study 2009: A Methodological Note , Economic and Political Weekly, Vol. XLIV (39)\n
+Lokniti Team, (2004)  National Election Study 2004 , Economic and Political Weekly, Vol. XXXIX (51).\n
+ Asking About Numbers: Why and How , Political Analysis (2013), Vol. 21(1): 48-69, (first published online November 21, 2012)\n\n
+        <b>III. Survey Research</b>\n
+Essential Readings:\n
+H. Asher, (2001)  Chapters 3 and 5 , in Polling and the Public: What Every Citizen Should Know, Washington DC: Congressional Quarterly Press.\n
+R. Erikson and K. Tedin, (2011) American Public Opinion, 8th edition, New York, Pearson Longman Publishers, pp. 40-46.\n\n
+        <b>IV. Quantitative Data Analysis</b>\n
+Essential Readings:\n
+A. Agresti and B. Finlay, (2009) Statistical methods for the Social Sciences, 4th edition, Upper saddle river, NJ: Pearson-Prentice Hall,\n
+S. Kumar and P. Rai, (2013)  Chapter 1 , in Measuring Voting Behaviour in India, New Delhi: Sage.\n\n
+        <b>V. Interpreting polls</b>\n
+Essential Readings:\n
+R. Karandikar, C. Pyne and Y. Yadav, (2002)  Predicting the 1998 Indian\n
+Parliamentary Elections , Electoral Studies, Vol. 21, pp.69-89.\n
+M. McDermott and K. A. Frankovic, (2003)  Horserace Polling and Survey Methods Effects: An Analysis of the 2000 Campaign , Public Opinion Quarterly 67, pp. 244-264.\n
+Additional Readings:\n
+K. Warren, (2001)  Chapter 2 , in In Defense of Public Opinion Polling, Boulder: Westview Press, pp. 45-80.\n
+W. Cochran, (2007)  Chapter 1 , Sampling Techniques, John Wiley   Sons.\n
+G. Gallup, (1948) A Guide to Public Opinion Polls. Princeton: Princeton University Press, pp. 14-20; 73-75.\n
+D. Rowntree (2000) Statistics Without Tears: an Introduction for Non Mathematicians, Harmondsworth: Penguin.\n\n
+        <b>Suggested Student Exercises:</b>\n
+1. Discussion of readings and Indian examples.\n
+2. Groups of students to collect examples of and discuss various sample based studies across many fields: e.g. consumer behaviour, unemployment rates, educational standards, elections, medicinal trials etc.\n
+3. Non-random sampling: The students have to identify one group of people or behaviour that is unique or rare and for which snowball sampling might be needed. They have to identify how they might make the initial contact with this group to start snowball rolling.\n
+4. Give the students the electoral list of an area in Delhi (http://ceodelhi.gov.in). The students have to draw a random sample of n number of respondents.\n
+5. For this activity, working with a partner will be helpful. The class should first decide on a topic of interest. Then each pair should construct a five-item self report questionnaire.\n
+Of the five items, there should be at least one nominal response, one ordinal response and one interval. After the common questionnaire is constructed putting together the questions from everyone, working in pairs, the questionnaire should be administered on 10 different individuals.\n
+6. Give the students a questionnaire from any public opinion survey and ask them to identify the type of variables.

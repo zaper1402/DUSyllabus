@@ -1,0 +1,33 @@
+<b>Unit 1</b>\n
+Cyber crimes\n
+Introduction-computer crime and cyber crimes;distinction between cyber crime and conventional crimes;cyber forensic ;kinds of cyber crimes-cyber stalking ,cyber terrorism, forgery and fraud , crimes related to IPRs ,computers vandalism;privacy of onlinedate;cyber juridiction;copyright issues and domain name dispute etc.\n\n
+        <b>Unit 2</b>\n
+Definition and terminology (information technology act,2000)\n
+Concept of internet ,internet governance,e-contract,e-fors,encryption, data security.Access ,addressee,adjudicating officer,affixing digital signatures , appropriate government, certifying authority,certification practice statement,computer ,computer network,computer resources,computer system,cyber appellate tribunal,data,digital signatures, electronic form,electronic record,information,intermediary, key pair ,originator ,public key,secure system,verify,subscribers as defined in the information technology act ,2000.\n\n
+        <b>Unit 3</b>\n
+Electronic records\n
+Authentication of electronic records ;legal recognition of electronic records;legal recognition of digital signatures ;use of electronics records and digital signatures in government and its agencies ;Retention of electronic records;attributions,acknowledgement and dispatch of electronic records ;secure electronic records and digital signatures.\n\n
+        <b>Unit 4</b>\n
+Regulatory framework\n
+Regulation of certifying authorities ;appointment and functions of controller ;license to issue digital signatures certificates ;renewal of licenses;controller s powers ;procedure to be followed by certifying authority ;issue,suspension and revocaion of digital signatures certificate,duties of subscribers ;penalties and adjudication ;appellate tribunal;offences.\n\n
+        <b>Unit 5</b>\n
+Case laws\n
+1. Communication Device-section 2(ha) of the information technology\n
+2.Computer Network -section2(j)\n
+3. Electronic record sec. 2(t)\n
+4. Time and place of dispatch and receipt of electronic  record-section 13\n
+5. Penalty for damage to computer pr computer system-section 43\n
+6. Computer related offences\n
+7. Punishment for disclosure of information in breach of lawful contract sec 72 A\n
+8. Punishment for idenity theft-section 66C\n
+9. Punishment for cheating by personating by using computer resource-section 66D\n
+10. Punishment for publishing pr transmitting obsence material in electronic formsection\n
+11. Punishment for publishing or transmitting of material containing sexually explicit act,etc., in electronic form-section 67A\n
+    <b>Suggested Readings:</b>\n
+1. Efraim,Turban.,Jae ,Lee .,King ,David and Chung,HM.Electronic commerce-A managerial perspective,Pearson education.\n
+2. Joseph,P.T.E-Commerce-An Indian perspective ,PHI.\n
+3. Chaffey,Dave.E-business and E-commerce management,pearson education.\n
+4. Painttal,D.Law of information technology,Taxmann publications Pvt.Ltd.,New Delhi.\n
+5. Dietel,Harvey M.Dietel,Paul J, and Kate Steinbuhler.E-business and E-Commerce for managers,Pearson education.\n
+6. Sharma J.P. and Kanojia,Sunaina,Cyber laws Ane Books Pvt Ltd ,New Delhi.
+    

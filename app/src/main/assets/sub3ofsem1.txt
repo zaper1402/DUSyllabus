@@ -1,0 +1,54 @@
+<b>Unit 1</b>\n
+The Indian contract act,1872\n
+(a) Contract-meaning ,characteristics and kinds.\n
+(b) Essential of valid contract - Offer and acceptance, consideration,contractual capacity, free consent ,legality of objects.\n
+(c) Void agreements\n
+(d) Discharge of contract -modes of discharge including breach and its remedies.\n
+(e) Contingent contracts.\n
+(f) Quasi-contracts.\n
+(g) Contract of indemnity and guarantee\n
+(h) Contract of bailment\n
+(i) Contract of agency\n\n
+        <b>Unit 2</b>\n
+The sale of goods act,1930\n
+(a) Contract of sale,meaning and difference between sale and agreement to sell.\n
+(b) Conditions and warranties.\n
+(c) Transfer of ownership in goods including sale by non-owners.\n
+(d) Performance of contract of sale.\n
+(e) Unpaid seller- meaning and rights of an unpaid seller against the goods and the buyer.\n\n
+        <b>Unit 3</b>\n
+The limited liability partnernship act ,2008\n
+(a) Salient features of LLP.\n
+(b) Differnce between LLP and partnership ,LLP and company.\n
+(c) LLP agreement\n
+(d) Nature of LLP\n
+(e) Partners and designated partners\n
+(f) Incorporation Document\n
+(g) Incorporation by Registration , registered office of LLP and change therein\n
+(h) Change of name\n
+(i) Partners and their relations\n
+(j) Extent and limitation of liability of LLP and partners\n
+(k) Whistle blowing\n
+(l) Taxation of LLP\n
+(m) Conversion of LLP\n
+(n) Winding up and dissolution\n\n
+        <b>Unit 4</b>\n
+The information technology act 2000\n
+(a) Defination under the act\n
+(b) Digitl signature\n
+(c) Electronic governance\n
+(d) Attribution, acknowledgement and dispatch of electronis records.\n
+(e) Regulation of certifying authorities\n
+(f) Digital signal certificates\n
+(g) Duties of subscribers\n
+(h) Penalties and adjudication\n
+(i) Appellate Tribunal\n
+(j) Offences\n\n
+        <b>Seggested readings</b>\n
+1. Lee Reach.Business LAss. Oxford University Press,UK.\n
+2. Singh,Avtar.The Principles of Mercantile Law. Eastern Book Company,Lucknow.\n
+3. Tulsian ,P.C.Business Law. Galgotias Publishing Company,New Delhi.\n
+4. Sharma,J.P.,and Kanojia,Sunaina.Business Laws.Ane Books Pvt.Ltd.New Delhi.\n
+5. Chadha,P.R.Business Law.Galgotia Publishing Company,New Delhi.\n
+6. Maheshwari and Maheswari .Business Law,National Publishing House,New Delhi.\n
+7. Information Technology Rules 2000 with information technology act 2000.Taxmann Publications Pvt.Ltd.,New Delhi.\n

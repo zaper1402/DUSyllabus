@@ -1,0 +1,92 @@
+<b>PART - A</b>\n
+<b>Unit I</b>: Basic Knowledge of the Computer (5 Practicals)\n
+1. History of Computer, Advantages, Functions of computers, Limitations of Computers, Applications of Computers, Generation of Computers.\n
+2. Types of Computers.\n
+3. Hardware, Firmware, Live-ware.\n
+4. Types of Software:\n
+i. System Software: Operating System, Translators, Interpreters, Compilers, Functions ofOperating System\n
+ii. Application Software: General Purpose Packaged Software and tailor-made software.\n
+5. Introduction to Internet:\n
+I. Meaning and features\n
+ii. Growth of internet\n
+iii. Internet, Intranet, and Extranet\n
+iv. Basic intemet tenninologies: Webpage, Homepage, World-wide Web, E-mail, Website, Client-Server relationship, and Internet Security\n
+v. Net Etiquettes\n
+vi. Internet Protocols\n
+vii. Search Engines and their types\n
+viii. Usage of Internet for the society\n\n
+        <b>PART - B</b> (35 Practicals)\n\n
+        <b>Unit II. Word Processing</b> (05 Practicals)\n
+I. Introduction to word processing.\n
+2. Word Processing Concepts\n
+3. Working with word document:\n
+Z Opening an existing document/creating a new document Saving, Difference between Save and Save As\n
+ Selecting text _\n
+ Editing text\n
+ Finding and replacing text\n
+ Closing a document\n
+ Formatting Text\n
+ Checking and Correcting spellings  \n
+ Justification and Alignment\n
+  Bullets and Numbering\n
+Tabs\n
+L Paragraph Formatting\n
+ Page formatting\n
+ Mail Merge\n
+ Use of Smart Art Tools\n\n
+        <b>Unit lll. Spreadsheet </b>(30 Practicals)\n
+1 Spreadsheet concepts.\n
+2: Creating a work book.\n
+I Saving a work book.\n
+ Editing a work book.\n
+ Inserting and deleting work sheets.\n
+ Entering data in_ a cell.\n
+ Formulae Copying ~\n
+   Moving data from selected cells.\n
+ Handling operators in formulae.\n
+ Inserting   tarts: LINE, BAR, PIE\n
+Use of basics formulae used in excel\n
+ Cell referencing and their types\n
+ Use of functions —\n
+Financial: FV, PV, NPV, DB, SLN, PMT, IPMT, PPMT, CUMPRINC, CUMIPMT\n
+Logical: IF, AND, OR\n
+Statistical: AVERAGE, MEDIAN, MODE, MAX, MIN, STDEV,\n
+FREQUENCY, INTERCEPT, SLOPE.\n
+Mathematical: ROUND, RAND, SUM, SUMIF, COUNT, COUNTIF,\n
+COUNTA, COUNTBLANK, RANDBETWEEN\n
+" Preparing generalized worksheets.\n\n
+        <b>PART - C </b>(20 Practicals)\n\n
+        <b>Unit- IV:</b> (05 practicals)\n
+l. Data table design for accounting. I\n
+2. Fundamentals of computerized accounting.\n
+3. Concept ofgrouping of accountings.\n
+4. Codification of accounts. Maintaining the hierarchy ofledger.\n\n
+        <b>Unit-V:</b> (15 practicals)\n
+I. Practical training of computers in financial accounting with the use of any one ofthe latest version of accounting/workbook packages.\n
+2. Applications through computerized accounting: Ledger and trial balance. Cash Book, Bank Book, Journal Book.\n\n
+        <b>Scheme of Examination</b>\n
+I. Part A — Unit I, Part B — Unit Il and Part C · Unit IV, shall have a theory-practical exam. It shall be MCQ type, to be taken online during the practical examination. Itwould be for I5 marks and 15 minutes.\n
+2. There shall be a workbook that carries I0 marks.\n
+3. There shall be an oral viva during the examination for I0 marks.\n
+4. Each student is expected to carry out two practicals - one each from Part B ~ Unit Ill (on Finance) and Part C - Unit V (on Accounting).\n
+5. In the practical examination each student will have to attempt two practical problems:\n
+(i) One on Finance (35 marks); and\n
+(ii) One on Accounting (30 marks);\n
+6. Marks break—up:\n
+(i) Viva — l0\n
+(ii) Workbook - 10\n
+(iii) Finance problem — 35\n
+(iv) Accounting problem — 30\n
+(v) MCQ — I5\n
+(vi) Total- l00\n
+7. Accounting and Finance stream is not available for non-formal stream.\n\n
+        <b>Note:</b> Various problems in financial accounting and financial management shall, along with the software packages referred above and relevant books, be notified by the department every 3 years.\n\n
+        <b>Suggested Readings</b>\n
+l. Madan, Sushila, Computer Applications in Business, Mayur Paperbacks” New Delhi.\n
+2. Arora, Sumita, Computer Applications in Business, Dhanpat Rai and Co. New Delhi.\n
+3. ltI Education Solutions Limited "introduction to information Technology" Pearson Publishers New Delhi\n
+4. Rajaraman, V., Introduction to Information Technology, PHI.\n
+5. Sinha, Pradeep K., and Sinha, Preeti, Foundation of Computing, , BPB, Publication,\n
+6. Bharihoka, Deepak, Fnndcrments of Injnrmotion Technology, Excel Book.\n
+7. Saxena, Sanjay, A First Course in Computers, Vikas Publishing House.\n\n
+<b>Note</b>: Latest edition of text book may be used. ·

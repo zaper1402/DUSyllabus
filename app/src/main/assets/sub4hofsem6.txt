@@ -1,0 +1,23 @@
+<b>Unit 1</b>\n
+Bsics of financial reporting \n
+Purpose of financial reporting,user of financial reports ,conceptual fremework for financial reporting.\n\n
+        <b>Unit 2</b>\n
+Understanding financial statements\n
+Structure of financial statements:Introduction,statements of financial position (Balance sheet) ,statement of earnnings(Income statement), and statement of cash flows(cash flow statements).\n
+Additional disclosure statements-Need for additional statements ,auditors report,director s report ,electronic dissemination,corporate governance.\n\n
+        <b>Unit 3</b>\n
+Elements of financial statements\n
+Inventories ,receivables,assests(fixed tangible,intangible),leases ,revenue,income tax,retained earning.\n\n
+        <b>Unit 4</b>\n
+Analysis and interpretation of financial statements\n
+Ratio analysis-Liquidity,sovency,activity and profitability analysis,comparative and common size analysis (vertical and horizontal analysis),financial statement variation by type of industry.\n
+Expanded analysis:Financial ratios used in annual reports ,management s use of financial analysis,graphing financial information.\n\n
+        <b>Unit 5</b>\n
+Accounting standards in India and IFRS\n
+Basic framework.
+    <b>Suggested Readings:</b>\n
+1. Lal, Jawahar,Corporate financial reporting :theory and practice ,Taxmann applied service ,New Delhi.\n
+2. Raiyani, J.R. and Lodha,G. International financial reporting standard(IFRS) and Indian accounting Practices ;New century publications.\n
+3. singh,N.T. and Agarwal,P. Corporate Financial reporting in India ,Raj publishing,Jaipur.\n
+4. Hennie, V.G. International financial reporting standards,A practical guide, Washington;World bank.
+    

@@ -1,0 +1,46 @@
+<b>Unit 1</b>\n
+Statistical data and descriptive statistics\n
+Measures of central tendency.\n
+Mathematical averages including arithmetic mean,,geometric mean and harmonic mean,properties and application.\n
+Positional averages: Mode and median (and other partition values including quartiles,deciles and percentiles).\n
+Measures of variation:absolute and relative.\n
+Range ,quartile derivation,mean derivation,standard derivation and their coefficients , properties of standard derivation/variance.\n
+Moments:calculation and significance ,Skewness;Meaning,MEasurement using Karl Pearson and Bowley s measures;Concept of Kurtosis\n\n
+        <b>Unit 2</b>\n
+Probability and probability distributions\n
+Theory of probability.approaches to the calculation of probability.\n
+Calculation of event probabilites, addition and multiplication laws of probability\n
+Conditional probability and Bayes theorem\n
+Expectation and variance of a random variable\n
+Probability distribution:\n
+a) Poisson distribution:Probability function,(including poisson approximation to binomial distribution), constants,fitting of poisson distribution.\n
+b) Binomial distribution:Probability distribution function,COntants ,Shape,fitting of binomial distribution.\n
+c) Normal distribution:probability distribution function,properties of normal curve,calculation of probabilities.\n\n
+        <b>Unit 3</b>\n
+Simple correlation and regression analysis\n
+Correlation analysis. meaning of correlation:simple,multiple and partial ;linear and non-linear,correlation and causation ,scatter diagram,pearson co-efficient of correlation;calculation and properties.Correlationand probable error;rank correlation.\n
+Regression analysis:principles of least squares and regression lines,regression equation and estimation ;properties of regression coefficients,relationship between correlation and regression coefficients;standard error of estimate.\n\n
+        <b>Unit 4</b>\n
+Index Numbers\n
+Meaning and uses of index numbers.Construction of index numbers,fixed and chain base :univariate and composite ,Aggregative and average of relatives-Simple and weighted\n
+Tests of adequancy of index numbers,base shifting ,splicing and deflating,problems in the construction of index numbers.\n
+Constructions of consumers price indices ,important share price indices,including BSE SENSEX and NSE NIFTY\n\n
+        <b>Unit 5</b>\n
+Time series analysis\n
+Time series data;components of time series.additive and multiplicative models\n
+Tend analysis.Fitting of tren line using principles of least squares-linear,second degree parabola and exponential ,Conversion of annual linear trend equation to quarter/monthly basis and vice versa;Moving averages.\n
+Seasonal variations-calculation of seasonal indices using simple averages ,ratio-to-trend and ratio-to-moving averages methods ,Uses of seasonal indices.\n\n
+        <b>Unit 6</b>\n
+Sampling concepts,Sampling distributions and estimation\n
+Populations and samples,parameters and statistics ,descriptive and inferential statistics.Sampling methods including simple random sampling ,stratified sampling,systematic sampling .Judgement sampling and conveniences sampling.\n
+Concept of sampling distributions and theory  of estimation:Point and interval estimation of means(large samples) and proportions.\n\n
+    <b>Suggested Readings:</b>\n
+1. Levis ,Richand, David S. Rubin and Siddiqui,Statistics for management,Pearson Education.\n
+2. Berenson and levine,Basic business statistics:Concepts and applications.Pearson Education.\n
+3. Siwgel,Andrew F.Practical business statistics,McGraw Hill.\n
+4. Vohra,N.D,Business statistics,McGraw Hill.\n
+5. Spiegel,M.D. Theory and problems of statistics,Schaums outlines series,McGraw Hill publishing Co.\n
+6. Gupta,S.P and Gupta,Archana,Statistical methods,Sultan chand and sons,New Delhi.\n
+7. Gupta,S.C,Fundamentals of statistics,Himalaya publishing house.\n
+8. Thukral J.K. Business statistics taxmann.
+    
