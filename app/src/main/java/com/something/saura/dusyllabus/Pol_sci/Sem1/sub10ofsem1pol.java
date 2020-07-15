@@ -19,7 +19,7 @@ public class sub10ofsem1pol extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.syllabus_page);
 
-        String file = "sample.txt";
+        String file = "sub10ofsem1pol.txt";
         text = filereader.readWithSpan(this,file);
         TextView output= (TextView) findViewById(R.id.textView);
         output.setText((CharSequence) text);

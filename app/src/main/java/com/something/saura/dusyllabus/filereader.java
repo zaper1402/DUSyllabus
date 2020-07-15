@@ -30,8 +30,9 @@ public class filereader  {
                 UnderlineSpan underlineSpan = new UnderlineSpan();
                 Boolean boldFlg=false,UnderlineFlg=false;
 
+                mLine= mLine.replace("\\n","");
                 if(mLine.length()!=0 && mLine.contains("<b>")){
-                    mLine = mLine.replace("<b>","").replace("</b>","").replace("\\n","");
+                    mLine = mLine.replace("<b>","").replace("</b>","");
                     boldFlg=true;
 
                     if(mLine.contains("<u>")) {
@@ -44,7 +45,7 @@ public class filereader  {
                 ss = new SpannableStringBuilder(mLine);
 
                 if(UnderlineFlg) ss.setSpan(underlineSpan,0,ss.length()-1, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
-                if(boldFlg) ss.setSpan(boldSpan,0,ss.length()-1, Spanned.SPAN_INCLUSIVE_INCLUSIVE);
+                if(boldFlg) ss.setSpan(boldSpan,0,ss.length(), Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
                 text.append(ss);
                 text.append('\n');
             }

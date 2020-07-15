@@ -16,7 +16,11 @@ public class sub7ofsem4pol extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.syllabus_page);          String file = "sample.txt";         text = filereader.readWithSpan(this,file);          TextView output= (TextView) findViewById(R.id.textView);         output.setText((CharSequence) text);
+        setContentView(R.layout.syllabus_page);
+        String file = "sub7ofsem4pol.txt";
+        text = filereader.readWithSpan(this,file);
+        TextView output= (TextView) findViewById(R.id.textView);
+        output.setText((CharSequence) text);
 
         MobileAds.initialize(this, "ca-app-pub-5207658967392727~2816356292");
         mAdView = findViewById(R.id.adView);

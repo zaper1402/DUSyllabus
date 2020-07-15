@@ -18,7 +18,7 @@ public class sub5ofsem2pol extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.syllabus_page);
-        String file = "sample.txt";
+        String file = "sub5ofsem2pol.txt";
         text = filereader.readWithSpan(this,file);
         TextView output= (TextView) findViewById(R.id.textView);
         output.setText((CharSequence) text);
