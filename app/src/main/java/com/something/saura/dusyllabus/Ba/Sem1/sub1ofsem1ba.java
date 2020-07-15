@@ -30,7 +30,7 @@ public class sub1ofsem1ba extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.syllabus_page);
 
-        String file = "sample.txt";
+        String file = "sub1ofsem1ba.txt";
         text = filereader.readWithSpan(this,file);
 
         TextView output= (TextView) findViewById(R.id.textView);

@@ -18,7 +18,7 @@ public class sub6cofsem4 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.syllabus_page);
-        String file = "sample.txt";
+        String file = "sub6cofsem4.txt";
         text = filereader.readWithSpan(this,file);
         TextView output= (TextView) findViewById(R.id.textView);
         output.setText((CharSequence) text);
